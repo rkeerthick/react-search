@@ -1,0 +1,13 @@
+table {
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+th {
+    font-size: 24px;
+}
+
+td {
+    padding: 10px;
+}
